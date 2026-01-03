@@ -12,6 +12,16 @@ M. Liu, H. Guo, JY. Han, “Machine Learning Prediction of ADHD Medication Trend
 ## Oral Presentation 
 [Link: MIT, Oct 11, 2025](https://drive.google.com/file/d/1uUHdaXFJeAz8ocFRRaTW9gRNLxCVh_cU/view)
 
+# Individual ADHD Medication Consumption 
+
+## Description:
+This project is an extended part of ADHD Medication Use. The aim is to forecast the future sales and prescriptions for individual ADHD medicine such as Adderall or Ritalin based on historic data. Unlike the forecasting model for total ADHD medication consumption, the algorithm for individual ADHD drug use forecasting needs to integrate additional factors like competitive product market share and clinical value (e.g extended release formulations would reduce the number of takes in a day and increase compliance). I am able to augment the original XGBoost model with principal component analysis (PCA) to predict the consumption of Adderall and Ritalin. These individual drug prediction models can be translated to regional sales input and predict the future sales of each drug in a region or a store, improving  inventory planning and medication accessibility for patients.
+
+## Modelling Method
+We employed a hybrid time series approach combining lag-based feature engineering, Holt-Winters exponential smoothing, and an eXtreme Gradient Boosting (XGBoost) regression model. This initial model captured temporal dependencies, seasonal structure, and nonlinear relationships in the individual drug data. The second model is to implement a machine learning-based method for forecasting individual drug market shares using XGBoost regression, PCA, and lag feature engineering.
+
+## Coding Environment
+R (R Core Team, 2024), version 4.4.1, was used for data analysis of the actual and predicted data. All machine learning model executions were performed using Python, executed within the Google Colaboratory (Colab) IDE.
 
 
 
