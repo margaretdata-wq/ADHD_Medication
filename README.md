@@ -23,8 +23,7 @@ We employed a hybrid time series approach combining lag-based feature engineerin
 ## Coding Environment
 R (R Core Team, 2024), version 4.4.1, was used for data analysis of the actual and predicted data. All machine learning model executions were performed using Python, executed within the Google Colaboratory (Colab) IDE.
 
-## code Link
-https://github.com/margaretdata-wq/ADHD_Medication/tree/main/Code_for_Individual_ADHD
+
 
 
 
