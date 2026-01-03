@@ -1,21 +1,21 @@
-#ADHD
-##Description
+# ADHD
+## Description
 This repository hosts 
 
 
-##Dependencies
+## Dependencies
 None
 
-##To Train Your Own Model
+## To Train Your Own Model
 Obtain the Data 
 
 
-##Update Paths
+## Update Paths
 Update the set of paths to your own as specified inside utils.py.
 
-##Run the Code in Order
+## Run the Code in Order
 Then, run the code starting from the 1-import folder, then to the 2-build folder, and finally to the 3-analysis folder.
 
-Bibliography
-Contact
+# Bibliography
+# Contact
 Email: 
