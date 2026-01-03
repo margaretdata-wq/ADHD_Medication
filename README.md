@@ -6,7 +6,7 @@ The COVID-19 pandemic and associated public health measures have affected mental
 
 
 
-##Paper:
+## Paper:
 M. Liu, H. Guo, JY. Han, “Machine Learning Prediction of ADHD Medication Trends Reveals Transient Impact of the COVID-19 Pandemic in the U.S,” in Proceedings of 2025 IEEE MIT Undergraduate Research Technology Conference (URTC) (in Press). 
 Oral Presentation: 
 Link: MIT, Oct 11, 2025
