@@ -7,7 +7,7 @@ The COVID-19 pandemic and associated public health measures have affected mental
 
 
 ## Paper
-S. Lloyd, M. Liu, W. Lu, “Lightweight Detection of Reconnaissance Attacks in IoMT Networks with Mobile Visualization Support,” accepted and orally presented at 2025 IEEE MIT Undergraduate Research Technology Conference (URTC), in press on IEEE Xplore. 
+M. Liu, H. Guo, JY. Han, “Machine Learning Prediction of ADHD Medication Trends Reveals Transient Impact of the COVID-19 Pandemic in the U.S,” in Proceedings of 2025 IEEE MIT Undergraduate Research Technology Conference (URTC) (in Press).  
 
 ## Oral Presentation 
 [Link: MIT, Oct 11, 2025](https://drive.google.com/file/d/1uUHdaXFJeAz8ocFRRaTW9gRNLxCVh_cU/view)
